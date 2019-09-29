@@ -69,6 +69,6 @@ client.on(`error`, console.error);
 client.on(`warn`, console.warn);
 
 //Très utile (sinon le bot va pas se connecter sur son compte Discord quoi xD)
-client.login(config.token);
+client.login(token);
 
 //Juste pour faire 100 lignes ;)
