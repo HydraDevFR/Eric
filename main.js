@@ -1,7 +1,7 @@
 const Discord = require(`discord.js`);
 const client = new Discord.Client({ fetchAllMembers: true });
 const config = require(`./config.json`);
-const token = process.env.token
+const token = process.env;
 const fs = require(`fs`);
 
 //Ici, le module de base de données !!
