@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ascii-art": "^1.4.4",
+    "ascii-art": "^1.5.1",
     "better-sqlite-pool": "^0.1.2",
     "discord.js": "^11.3.2",
     "enmap": "^4.0.9",
