@@ -1,6 +1,3 @@
-
-![Zozor](https://cdn.discordapp.com/avatars/491225439294193667/b656999208579667edc901a95909cf1c.png?size=2048)
-
 # Lightning
 Un bot multifonction en plein **développement** par Activity#6823.
 
@@ -31,7 +28,4 @@ Un bot multifonction en plein **développement** par Activity#6823.
 
 Qu'attends-tu pour ajouter le bot ? Bah oui le lien !
 Tu veux inviter le bot sur ton serveur ? <a href="https://lc.cx/mEGL">Lien d'invitation</a> 
-
-       *By ` Activity#6823`for public* 
-   
     
