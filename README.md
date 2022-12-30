@@ -1,6 +1,3 @@
-# Lightning
-Un bot multifonction en plein **développement** par Activity#6823.
-
 -----------------
 
 *Que comprend le bot ?*
